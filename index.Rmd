@@ -3,38 +3,25 @@ title: "Connor Quiroz"
 image: "connor.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/connor-quiroz/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/quir1869"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:quir1869@uw.edu"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Connor Quiroz studies the role of seafood trade in affecting international climates and economies. His research focuses on disaggregating the climatic and social-economic risks embedded in seafood consumption, and providing that information to fishery suppliers and managers to buffer seafood production and minimize food security risks.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Washington** | Seattle, WA
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Ph.D. Student in Aquatic and Fishery Sciences | September 2024 - May 2029
 
-**The University of California, Berkeley** | Berkeley, CA
+**California State University, Monterey Bay** | Seaside, CA
 
-B.S. in Computer Science | September 2005 - May 2009
-
-## Experience
-
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
+B.S. in Environmental Science, Technology, and Policy | August 2020 - May 2024
